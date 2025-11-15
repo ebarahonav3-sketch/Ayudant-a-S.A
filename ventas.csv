@@ -1,0 +1,4 @@
+id_venta,fecha,cliente_id,producto,cantidad,precio_total
+V1001,2025-11-01,C001,Camisa,2,39.98
+V1002,2025-11-05,C002,Pantalón,1,24.50
+V1003,2025-11-10,C003,Zapatos,1,59.90
