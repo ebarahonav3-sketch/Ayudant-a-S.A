@@ -1,0 +1,5 @@
+cliente_id,nombre,email,telefono,ciudad
+C001,María González,maria.g@example.com,+593991112233,Guayaquil
+C002,Juan Pérez,juan.p@example.com,+593998776655,Quito
+C003,Ana Morales,ana.m@example.com,+593099887766,Cuenca
+
